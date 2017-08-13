@@ -1,0 +1,23 @@
+{
+  "name": "gulp-process",
+  "version": "1.0.0",
+  "description": "gulp process for automate developing ...",
+  "main": "app.js",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.2.1",
+    "typescript": "^2.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "development",
+    "automate"
+  ],
+  "author": "kousher alam pranto",
+  "license": "MIT"
+}
