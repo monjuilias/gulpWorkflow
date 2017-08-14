@@ -3,9 +3,12 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="dist/css/main.css">
+	<script src="node_modules/systemjs/dist/system.js"></script>
 </head>
 <body>
 
-	<script type="text/javascript" src="dist/js/main.js"></script>
+	<script type="text/javascript">
+		SystemJS.import('dist/js/main.js');
+	</script> 
 </body>
 </html>
