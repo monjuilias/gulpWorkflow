@@ -64,7 +64,7 @@ gulp.task('image', function(){
 
 
 //gulp task for production version
-gulp.task('dist',function(){
+gulp.task('production',function(){
 
 });
 
