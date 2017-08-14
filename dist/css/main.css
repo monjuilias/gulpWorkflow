@@ -1,2 +1,9 @@
 body {
-  background-color: black; }
+  background-color: black;
+  -webkit-transition: all 200ms ease-in-out;
+  -o-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+  width: -webkit-calc(50% - 2em);
+  width: calc(50% - 2em); }
+
+/*# sourceMappingURL=map/main.css.map */

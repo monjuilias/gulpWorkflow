@@ -1,0 +1,1 @@
+{"version":3,"sources":["other/mod1.ts"],"names":[],"mappings":";;;IAAA;QAAA;YACI,SAAI,GAAU,cAAc,CAAC;QACjC,CAAC;QAAD,gBAAC;IAAD,CAFA,AAEC,IAAA;IAFY,8BAAS","file":"../../other/mod1.js","sourcesContent":["export class Something{\r\n    name:string = `kousher alam`;\r\n}"]}

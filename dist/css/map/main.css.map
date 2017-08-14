@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.sass"],"names":[],"mappings":"AACA;EACC,wBAFW;EAGX,0CAAiC;EAAjC,qCAAiC;EAAjC,kCAAiC;EACjC,+BAAsB;EAAtB,uBAAsB,EAAG","file":"../main.css","sourcesContent":["$main: black;\nbody {\n\tbackground-color: $main;\n\ttransition: all 200ms ease-in-out;\n\twidth: calc(50% - 2em); }\n"]}
