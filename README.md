@@ -1,5 +1,4 @@
-#Gulp Workflow
-## A repository for automate workflow setup. 
+# A repository for automate workflow setup. 
 
 This setup my all the 
 
