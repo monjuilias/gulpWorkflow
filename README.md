@@ -17,7 +17,7 @@
     * SASS file in ```assets/sass/```
     * TS file in ```assets/sass/`
     * Image for optimization in ```assets/img```
-* Use ```gulp``` for simplily start compaile__+__watch__+__autoload the system. 
+* Use ```gulp``` for simplily start compaile<strong>+</strong>watch<strong>+</strong>autoload the system. 
 * Use ```gulp production``` to build/minify/optimize the site for the production.
 * Use ```gulp image``` to just minify the image.
 
