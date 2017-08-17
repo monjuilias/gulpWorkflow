@@ -25,4 +25,4 @@
 __Big thanks to all the authors of these packages ❤️__
 
 ---
-<p align="center">__Script written by <a href="mailto:kousheralampranto@gmail.com">@kousheralam</a>__</p>
+<p align="center"><strong>Script written by <a href="mailto:kousheralampranto@gmail.com">@kousheralam</a></strong></p>
