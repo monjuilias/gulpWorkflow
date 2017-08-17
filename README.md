@@ -1,35 +1,28 @@
-# A repository for automate workflow setup. 
+# Stater Automate gulp Workflow. 
 
-This setup my all the 
+### What is it does ????
 
-* TS (Typescript with source map, module loader support) [In Progress]
-* SASS (Sass with autoprefix, source map support) [Complete]
-* Imagemin [Complete]
-* Production Version, web pack compression.[Not Begin]
-* pug Support [TODO]
+* Typescript compile with source map and type definition. 
+* SASS Compile with autoprefix And source map.
+* Minify Image / remove optional data.
+    * use  ```gulp image``` to minify image.
+* Pug templating engine
+* Webpack Bandel 
+* Uglify css,js,html in production version.
 
-## First install all the package with
+---
+## Follow this step :-
+* Install dependency with ```npm install``` command
+* Put your file in the structure 
+    * SASS file in ```assets/sass/```
+    * TS file in ```assets/sass/`
+    * Image for optimization in ```assets/img```
+* Use ```gulp``` for simplily start compaile__+__watch__+__autoload the system. 
+* Use ```gulp production``` to build/minify/optimize the site for the production.
+* Use ```gulp image``` to just minify the image.
 
-```
-npm install 
-```
 
-## Then put all the files into the structure that it have.
+__Big thanks to all the authors of these packages ❤️__
 
-# To Start the gulp server run:-
-```
-gulp
-```
-
-#To get production version run:-
-```
-gulp production
-```
-Production version contain minify all files, and compression of image file.
-
-## [TODO]
-* Solve the typescript module loader problem
-* Complete typescript task
-* Add pug task
-* Add Webpack Support
-* Add Production Task
+---
+<p align="center">__Script written by <a href="mailto:kousheralampranto@gmail.com">@kousheralam</a>__</p>
